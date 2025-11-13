@@ -62,15 +62,15 @@ Data_Quality_Dashboard/
 
 Contributions are welcome! To suggest improvements or report bugs:
 
-Fork the repository.
+**1.** Fork the repository.
 
-Create a feature branch: git checkout -b feature-name
+**2.** Create a feature branch: git checkout -b feature-name
 
-Commit your changes: git commit -m "Add new feature"
+**3.** Commit your changes: git commit -m "Add new feature"
 
-Push to the branch: git push origin feature-name
+**4.** Push to the branch: git push origin feature-name
 
-Open a Pull Request.
+**5.** Open a Pull Request.
 
 ## License
 
