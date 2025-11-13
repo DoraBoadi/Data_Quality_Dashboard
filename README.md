@@ -1,7 +1,7 @@
 # Data_Quality_Dashboard
 
 ## Overview
-The *Data Quality Dashboard* is an interactive Shiny application designed to monitor, visualize, and analyze the quality of survey data in real-time. It helps survey managers, enumerators, and data quality monitors (DQMs) track key metrics, identify data inconsistencies, and take timely corrective actions.
+The ## **Data Quality Dashboard** is an interactive Shiny application designed to monitor, visualize, and analyze the quality of survey data in real-time. It helps survey managers, enumerators, and data quality monitors (DQMs) track key metrics, identify data inconsistencies, and take timely corrective actions.
 
 The dashboard provides insights into:
 
@@ -11,7 +11,7 @@ Data quality issues such as duplicates, missing values, or inconsistent response
 
 Trends over time to support field operations and resource allocation.
 
-##Features
+## Features
 
 Completion Tracking: Visualize survey completion rates by region, enumerator, or other categories.
 
