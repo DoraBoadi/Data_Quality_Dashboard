@@ -17,7 +17,7 @@ The dashboard provides insights into:
 
 **Heatmaps & Charts**: Interactive heatmaps and bar charts to analyze trends and highlight outliers.
 
-**Data Quality Metrics**: Automatic identification of duplicates, missing responses, and inconsistencies.
+**Data Quality Metrics**: Automatic identification of duplicates and inconsistencies.
 
 **User-Friendly Interface**: Designed using Shiny with responsive layout for easy navigation.
 
