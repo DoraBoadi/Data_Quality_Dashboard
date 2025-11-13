@@ -17,8 +17,6 @@ The dashboard provides insights into:
 
 **Heatmaps & Charts**: Interactive heatmaps and bar charts to analyze trends and highlight outliers.
 
-**Downloadable Reports**: DQMs can export filtered data based on regions or teams.
-
 **Data Quality Metrics**: Automatic identification of duplicates, missing responses, and inconsistencies.
 
 **User-Friendly Interface**: Designed using Shiny with responsive layout for easy navigation.
